@@ -1,0 +1,42 @@
+{
+  "name": "w2file-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajm113/w2file-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajm113/w2file-web/issues"
+  },
+  "homepage": "https://github.com/ajm113/w2file-web#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/plugin-proposal-decorators": "^7.7.4",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-es2015": "^7.0.0-beta.53",
+    "babel-plugin-transform-decorators-legacy": "^1.3.5",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.7"
+  },
+  "dependencies": {
+    "bulma": "^0.8.0",
+    "preact": "^10.1.0",
+    "preact-render-to-string": "^5.1.2",
+    "preact-router": "^3.1.0",
+    "promise-polyfill": "^8.1.3",
+    "prototypes": "^3.0.1",
+    "sanitize.css": "^11.0.0",
+    "unistore": "^3.5.1"
+  }
+}
